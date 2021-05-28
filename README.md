@@ -1,2 +1,2 @@
 # vue-cli3-ts
-familiar width ts on vue-cli3
+familiar with ts on vue-cli3
